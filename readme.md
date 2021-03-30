@@ -7,7 +7,7 @@ This project demonstrates the application of hyperparameter tuning for Decision 
 
 #### Project Requirements:
 
-This project requires the following Python libraries to be installed in order to work.
+This project requires the following Python libraries to be installed in order to work:
 
 * Numpy
 * Pandas
